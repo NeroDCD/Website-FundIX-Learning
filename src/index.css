@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: "Lato", sans-serif;
+  --color-primary: theme("colors.primary");
+  --color-primarydark: theme("colors.primarydark");
+}
+
+body {
+  background-color: #000300;
+}
+
+.btn-primary {
+  @apply bg-primary w-button rounded-md font-bold my-6 mx-auto py-3 text-background hover:bg-primarydark transition-colors duration-300;
+}
+
+.btn-secondary {
+  @apply bg-background w-button rounded-md font-bold my-6 mx-auto md:mx-0 py-3 text-primary hover:bg-gray-800 transition-colors duration-300;
+}
+
+.text-gradient {
+  background: linear-gradient(
+    to right,
+    var(--color-primary),
+    var(--color-primarydark)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* index.css */
+
+.fundix-heading {
+  @apply text-2xl md:text-3xl font-bold text-primary animate-glow;
+}
+
+.fundix-span {
+  @apply text-white;
+}
