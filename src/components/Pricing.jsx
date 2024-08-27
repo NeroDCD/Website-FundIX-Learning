@@ -28,15 +28,9 @@ const Pricing = () => {
           <h2 className="text-2xl font-bold text-center py-8">Partnership</h2>
           <p className="text-center text-4xl font-bold">₱11,100</p>
           <div className="text-center font-medium">
-            <p className="py-2 border-b border-gray-900 font-semibold mx-8 mt-8">
-              1 TB Storage
-            </p>
-            <p className="py-2 border-b border-gray-900 font-semibold mx-8">
-              3 Users Allowed
-            </p>
-            <p className="py-2 border-b border-gray-900 font-semibold mx-8">
-              Send up to 10 GB
-            </p>
+            <p className="py-2 border-b mx-8 mt-8">1 TB Storage</p>
+            <p className="py-2 border-b mx-8">3 Users Allowed</p>
+            <p className="py-2 border-b mx-8">Send up to 10 GB</p>
             <button className="btn-secondary">Start Trial</button>
           </div>
         </div>
