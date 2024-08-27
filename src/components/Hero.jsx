@@ -1,20 +1,10 @@
 import React, { useEffect } from "react";
 import TypingEffect from "react-typing-effect";
 
-import "aos/dist/aos.css";
-import Aos from "aos";
-
 const Hero = () => {
-  useEffect(() => {
-    Aos.init();
-  }, []);
-
   return (
     <div className="text-white">
-      <div
-        className="max-w-[800px] h-screen mx-auto text-center flex flex-col justify-center space-y-2"
-        data-aos="fade-up"
-      >
+      <div className="max-w-[800px] h-screen mx-auto text-center flex flex-col justify-center space-y-2">
         <div className="flex justify-center mb-4">
           <p className="bg-gray-800 text-primary font-regular py-2 px-4 sm:text-lg text-sm border-2 border-gray-600 rounded-full inline-block">
             Powered by
