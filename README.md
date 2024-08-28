@@ -9,7 +9,7 @@ While the tutorial originally used the `React-Typed` package for text animations
 - Designing the layout using both flexbox and grid
 
 
-**Note:** I modified some sections as part of my exploration and learning with React and Tailwind CSS, including:
+**Note:** I modified and added some sections and styles as part of my exploration and learning with React and Tailwind CSS, including:
 
 - The Benefits component
 - The badge in the hero section
