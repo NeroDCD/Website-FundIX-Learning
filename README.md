@@ -2,10 +2,10 @@
 
 This project was developed based on the YouTube tutorial titled **"React JS & Tailwind CSS Responsive Website - Beginner Friendly."** The tutorial provides a comprehensive guide to building a fully responsive landing page using React and Tailwind CSS from scratch. 
 
-While the tutorial originally used the **"React-Typed"** package for text animations in the Hero component, I switched to the **"react-typing-effect"** package because `React-Typed` caused the page to become unresponsive. Additionally, the tutorial covers:
+While the tutorial originally used the `React-Typed` package for text animations in the Hero component, I switched to the `react-typing-effect` package because `React-Typed` caused the page to become unresponsive. Additionally, the tutorial covers:
 
 - Implementing the `useState` hook for toggling the mobile side drawer menu
-- Incorporating the **"React-Icons"** library for social icons
+- Incorporating the `React-Icons` library for social icons
 - Designing the layout using both flexbox and grid
 
 
