@@ -1,5 +1,13 @@
 # Project Overview
+<p align="center">
+  <a href="https://youtu.be/ZU-drSVodBw" target="_blank">
+    <img src="https://img.youtube.com/vi/ZU-drSVodBw/maxresdefault.jpg" alt="React JS & Tailwind CSS Responsive Website - Beginner Friendly" width="100%" />
+  </a>
+</p>
 
+**Link to the tutorial:** <a href="https://youtu.be/ZU-drSVodBw" target="_blank">React JS & Tailwind CSS Responsive Website - Beginner Friendly.</a>
+
+---
 This project was developed based on the YouTube tutorial titled **"React JS & Tailwind CSS Responsive Website - Beginner Friendly."** The tutorial provides a comprehensive guide to building a fully responsive landing page using React and Tailwind CSS from scratch. 
 
 While the tutorial originally used the `React-Typed` package for text animations in the Hero component, I switched to the `react-typing-effect` package because `React-Typed` caused the page to become unresponsive. Additionally, the tutorial covers:
@@ -17,16 +25,6 @@ While the tutorial originally used the `React-Typed` package for text animations
 - Using different assets
 
 These changes were made to enhance my understanding and improve the overall design of the project.
-
----
-
-<p align="center">
-  <a href="https://youtu.be/ZU-drSVodBw" target="_blank">
-    <img src="https://img.youtube.com/vi/ZU-drSVodBw/maxresdefault.jpg" alt="React JS & Tailwind CSS Responsive Website - Beginner Friendly" width="100%" />
-  </a>
-</p>
-
-**Link to the tutorial:** <a href="https://youtu.be/ZU-drSVodBw" target="_blank">React JS & Tailwind CSS Responsive Website - Beginner Friendly.</a>
 
 ## ⚙️ Tech Stack
 
