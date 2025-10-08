@@ -1,44 +1,34 @@
-# Project Overview
-<p align="center">
-  <a href="https://youtu.be/ZU-drSVodBw" target="_blank">
-    <img src="https://img.youtube.com/vi/ZU-drSVodBw/maxresdefault.jpg" alt="React JS & Tailwind CSS Responsive Website - Beginner Friendly" width="100%" />
-  </a>
-</p>
-
-**Link to the tutorial:** <a href="https://youtu.be/ZU-drSVodBw" target="_blank">React JS & Tailwind CSS Responsive Website - Beginner Friendly.</a>
+This project was developed by following the YouTube tutorial **"React JS & Tailwind CSS Responsive Website - Beginner Friendly"** by **Adrian Hajdin**.  
+The tutorial demonstrates how to build a fully responsive landing page using **React** and **Tailwind CSS** from scratch.
 
 ---
-This project was developed based on the YouTube tutorial titled **"React JS & Tailwind CSS Responsive Website - Beginner Friendly."** The tutorial provides a comprehensive guide to building a fully responsive landing page using React and Tailwind CSS from scratch. 
 
-While the tutorial originally used the `React-Typed` package for text animations in the Hero component, I switched to the `react-typing-effect` package because `React-Typed` caused the page to become unresponsive. Additionally, the tutorial covers:
+## 🔗 Tutorial Reference
+- [React JS & Tailwind CSS Responsive Website - Beginner Friendly](https://youtu.be/ZU-drSVodBw)
 
-- Implementing the `useState` hook for toggling the mobile side drawer menu
-- Incorporating the `React-Icons` library for social icons
-- Designing the layout using both flexbox and grid
-
-
-**Note:** I modified and added some sections and styles as part of my exploration and learning with React and Tailwind CSS, including:
-
-- The Benefits component
-- The badge in the hero section
-- Creating reusable styles in `index.css` and `tailwind.config.js`
-- Using different assets
-
-These changes were made to enhance my understanding and improve the overall design of the project.
+---
 
 ## ⚙️ Tech Stack
-
 - **Vite**
 - **React.js**
 - **Tailwind CSS**
 
-## 📦 Packages
+---
 
-- [react-typing-effect](https://www.npmjs.com/package/react-typing-effect)  
-  A typing animation effect for React components.
+## 💻 Customizations and Enhancements
+While following the tutorial, I made several modifications to improve functionality and design:
+- Replaced `React-Typed` with `react-typing-effect` for smoother text animations  
+- Added new sections such as the **Benefits** component and a **Hero badge**  
+- Created reusable styles in `index.css` and `tailwind.config.js`  
+- Used different assets and refined the layout  
 
-- [react-icons](https://react-icons.github.io/react-icons/)  
-  Popular icons for React projects.
+---
+
+## 📦 Key Packages
+- [react-typing-effect](https://www.npmjs.com/package/react-typing-effect) — Typing animation for React components  
+- [react-icons](https://react-icons.github.io/react-icons/) — Popular icon set for React projects  
+
+---
 
 ## ⚡ Getting Started
 
