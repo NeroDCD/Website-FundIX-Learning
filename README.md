@@ -1,5 +1,7 @@
-This project was developed by following the YouTube tutorial **"React JS & Tailwind CSS Responsive Website - Beginner Friendly"** by **Adrian Hajdin**.  
-The tutorial demonstrates how to build a fully responsive landing page using **React** and **Tailwind CSS** from scratch.
+## 💻 Introduction
+
+- This project was developed by following the YouTube tutorial **"React JS & Tailwind CSS Responsive Website - Beginner Friendly"** by **Adrian Hajdin**.  
+- The tutorial demonstrates how to build a fully responsive landing page using **React** and **Tailwind CSS** from scratch.
 
 ---
 
