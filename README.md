@@ -30,7 +30,7 @@ While following the tutorial, I made several modifications to improve functional
 
 ---
 
-## ⚡ Getting Started
+## ⚙️ Getting Started
 
 To get started with this project, clone the repository and install the dependencies:
 
@@ -41,7 +41,7 @@ npm install
 
 ```
 
-## 🎆 Start the server
+## ⚙️ Start the server
 
 To start the development server, run:
 
@@ -49,7 +49,7 @@ To start the development server, run:
 npm run dev
 ```
 
-## 🔨 Production build
+## ⚙️ Production build
 
 To create a production build, run:
 
@@ -57,7 +57,7 @@ To create a production build, run:
 npm run build
 ```
 
-## ✏️ Guide for Creating and Setting Up the Project from Scratch
+## ⚙️ Guide for Creating and Setting Up the Project from Scratch
 
 📃 **Note:** The tutorial mentioned above used Yarn for setting up the project, but I prefer to use npm.
 
